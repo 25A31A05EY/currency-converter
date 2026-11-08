@@ -1,0 +1,6 @@
+{
+  "name": "Python Currency Converter",
+  "description": "A fast, clean currency converter powered by Python with real-time exchange rates and a minimalist white interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
